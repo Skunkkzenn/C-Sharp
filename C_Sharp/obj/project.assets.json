@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Programacao PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Destefani\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp\\C_Sharp\\C_Sharp.csproj",
+      "projectUniqueName": "C:\\Users\\Destefani\\Source\\Repos\\C_Sharp_Now\\C_Sharp\\C_Sharp.csproj",
       "projectName": "C_Sharp",
-      "projectPath": "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp\\C_Sharp\\C_Sharp.csproj",
-      "packagesPath": "C:\\Users\\Programacao PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp\\C_Sharp\\obj\\",
+      "projectPath": "C:\\Users\\Destefani\\Source\\Repos\\C_Sharp_Now\\C_Sharp\\C_Sharp.csproj",
+      "packagesPath": "C:\\Users\\Destefani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Destefani\\Source\\Repos\\C_Sharp_Now\\C_Sharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Programacao PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Destefani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
