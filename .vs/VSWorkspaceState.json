@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C_Sharp",
+    "\\C_Sharp\\Cap10_Herança&Polimorfismo",
+    "\\C_Sharp\\Cap10_Herança&Polimorfismo\\6 - Classe Abstrata",
+    "\\C_Sharp\\Cap_7_Topicos_Especiais_CSharp\\3. Expressao_condicional_ternaria"
   ],
-  "SelectedNode": "\\C_Sharp.sln",
+  "SelectedNode": "\\C_Sharp\\Cap10_Herança&Polimorfismo\\6 - Classe Abstrata",
   "PreviewInSolutionExplorer": false
 }
