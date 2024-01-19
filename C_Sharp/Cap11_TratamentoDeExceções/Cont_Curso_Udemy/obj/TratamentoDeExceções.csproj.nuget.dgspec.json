@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp_Now\\C_Sharp\\C_Sharp.csproj": {}
+    "C:\\Users\\Programacao PC\\source\\repos\\Cont_Curso_Udemy\\Cont_Curso_Udemy\\TratamentoDeExceções.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp_Now\\C_Sharp\\C_Sharp.csproj": {
+    "C:\\Users\\Programacao PC\\source\\repos\\Cont_Curso_Udemy\\Cont_Curso_Udemy\\TratamentoDeExceções.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp_Now\\C_Sharp\\C_Sharp.csproj",
-        "projectName": "C_Sharp",
-        "projectPath": "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp_Now\\C_Sharp\\C_Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\Programacao PC\\source\\repos\\Cont_Curso_Udemy\\Cont_Curso_Udemy\\TratamentoDeExceções.csproj",
+        "projectName": "TratamentoDeExceções",
+        "projectPath": "C:\\Users\\Programacao PC\\source\\repos\\Cont_Curso_Udemy\\Cont_Curso_Udemy\\TratamentoDeExceções.csproj",
         "packagesPath": "C:\\Users\\Programacao PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Programacao PC\\source\\repos\\C_Sharp_Now\\C_Sharp\\obj\\",
+        "outputPath": "C:\\Users\\Programacao PC\\source\\repos\\Cont_Curso_Udemy\\Cont_Curso_Udemy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Programacao PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
