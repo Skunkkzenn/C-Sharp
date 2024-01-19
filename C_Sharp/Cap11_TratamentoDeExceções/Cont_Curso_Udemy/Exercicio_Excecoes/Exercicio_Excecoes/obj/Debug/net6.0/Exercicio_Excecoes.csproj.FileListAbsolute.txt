@@ -1,0 +1,15 @@
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\bin\Debug\net6.0\Exercicio_Excecoes.exe
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\bin\Debug\net6.0\Exercicio_Excecoes.deps.json
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\bin\Debug\net6.0\Exercicio_Excecoes.runtimeconfig.json
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\bin\Debug\net6.0\Exercicio_Excecoes.dll
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\bin\Debug\net6.0\Exercicio_Excecoes.pdb
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.csproj.AssemblyReference.cache
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.AssemblyInfoInputs.cache
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.AssemblyInfo.cs
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.dll
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\refint\Exercicio_Excecoes.dll
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.pdb
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\Exercicio_Excecoes.genruntimeconfig.cache
+C:\Users\Programacao PC\source\repos\Exercicio_Excecoes\Exercicio_Excecoes\obj\Debug\net6.0\ref\Exercicio_Excecoes.dll
