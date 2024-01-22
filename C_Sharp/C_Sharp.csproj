@@ -31,8 +31,4 @@
     <None Include="Cap_8_Enumeracoes&amp;Composicao\4. StringBuilder\String_Builder.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Cap12_Trabalhando_com_Arquivos\Exercicio_Proposto\" />
-  </ItemGroup>
-
 </Project>
