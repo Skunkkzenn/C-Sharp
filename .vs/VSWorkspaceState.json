@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C_Sharp",
+    "\\C_Sharp\\Cap11_TratamentoDeExceções",
+    "\\C_Sharp\\Cap11_TratamentoDeExceções\\Cont_Curso_Udemy",
+    "\\C_Sharp\\Cap11_TratamentoDeExceções\\Cont_Curso_Udemy\\Exercicio_Excecoes"
   ],
-  "SelectedNode": "\\C_Sharp.sln",
+  "SelectedNode": "\\C_Sharp\\Cap11_TratamentoDeExceções\\Cont_Curso_Udemy\\Exercicio_Excecoes\\Exercicio_Excecoes.sln",
   "PreviewInSolutionExplorer": false
 }

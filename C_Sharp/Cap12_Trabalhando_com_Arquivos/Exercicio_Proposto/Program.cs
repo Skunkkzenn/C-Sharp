@@ -20,18 +20,24 @@ namespace Course
     {
         static void Main(string[] args)
         {
-
+            //Solicita ao utilizador que insira o caminho completo do arquivo
             Console.Write("Enter file full path: ");
             string sourceFilePath = Console.ReadLine();
 
             try
-            {
+            {   //Lê todas as linhas do arquivo específicado anteriormente, as linhas são armazenadas pelo array lines
                 string[] lines = File.ReadAllLines(sourceFilePath);
 
+                //Obtém o caminho do diretório do arquivo
                 string sourceFolderPath = Path.GetDirectoryName(sourceFilePath);
+
+                //Cria uma sub-pasta dentro do caminho obtido anteriormente
                 string targetFolderPath = sourceFolderPath + @"\out";
+
+                //Cria o ficheiro dentro da sub-pasta criada anteriormente
                 string targetFilePath = targetFolderPath + @"\summary.csv";
 
+                //Responsável por criar o diretório 'targetFolderPath'
                 Directory.CreateDirectory(targetFolderPath);
 
                 using (StreamWriter sw = File.AppendText(targetFilePath))
